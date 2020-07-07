@@ -1,0 +1,2 @@
+Error from 20170802-15h30 untill 20170803-11h00: VMX not working correctly, sample cups not filled (after sample of cow 7836)
+Error from 20170802-23h45 untill 20170803-11h00: computer offline (after sample of cow 5868)

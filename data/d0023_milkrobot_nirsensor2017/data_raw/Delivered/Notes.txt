@@ -1,0 +1,6 @@
+I think the callibration model is from Dries
+Sets of data for different weeks
+1 - Reflectance
+2 - Transmittance
+MPR - Reference from the lab
+ToT - A merge of all sets (1 - 8), 9 and 10 had problems

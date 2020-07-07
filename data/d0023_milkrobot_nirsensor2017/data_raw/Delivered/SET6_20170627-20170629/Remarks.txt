@@ -1,0 +1,1 @@
+Sensor stopped working after 28/06/2017 11:05 (Labview update?), No spectral data collected after sample 102 (cow 9605).
