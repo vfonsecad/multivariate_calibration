@@ -2,6 +2,8 @@
 # by: valeria fonseca diaz valeria.fonsecadiaz@kuleuven.be
 # this folder contains procedures to apply pls models for multivariate calibration
 
+mcw-pls is an algorithm that takes simpls as a special case. this implementation is found in https://onlinelibrary.wiley.com/doi/abs/10.1002/cem.3215
+
 ## folders:
 
 - data: data cases. usually there is a data raw folder and a data prepared folder so data is structured to be ready for analysis. a template for this is available in user documents but it is not mandatory to do it this way
