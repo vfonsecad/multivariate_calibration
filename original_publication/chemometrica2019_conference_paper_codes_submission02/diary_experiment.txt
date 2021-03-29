@@ -1,0 +1,21 @@
+EXPERIMENT_ID;
+2019-12-03
+
+The only slightly lower rmsep for lactose was found on 14 lv and sigma2=4
+I will create the RMSECV curves with sigma on that range.
+I need to select samples with the more robust models and show the similarity in performance
+I also need to check the samples highlighted as outliers by w.simpls with the less robust models and compare to rsimpls outliers.
+
+
+my story is about robustness control, meaning that we want to see what are the influencial samples in benefit of the calibration model.
+This shows more efficiency than simpls or rsimpls in terms of data for calibration models 
+
+I will disclose:
+- the RMSECV curves of the three algs
+- the table of performance, 
+- comparison of samples between W.mcesimpls and RSIMPLS with large values of sigma
+- rmsep with fewer samples  
+
+For the review: The purpose of using d0005 was to show the sample selection
+
+2019-12-05 the official name of the method is changed from WMCESIMPLS to MCW-PLS (maximum correntropy weigthing PLS)
