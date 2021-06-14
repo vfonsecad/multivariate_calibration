@@ -1,5 +1,5 @@
 # multivariate calibration
-# by: valeria.fonsecad.diaz@gmail.com / valeria fonseca diaz valeria.fonsecadiaz@kuleuven.be
+# by: valeria.fonsecad.diaz@gmail.com / valeria.fonsecadiaz@kuleuven.be
 # this folder contains procedures to apply pls models for multivariate calibration
 
 mcw-pls is an algorithm that takes simpls as a special case. this implementation is found in https://onlinelibrary.wiley.com/doi/abs/10.1002/cem.3215
